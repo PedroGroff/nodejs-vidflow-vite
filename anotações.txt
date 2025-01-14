@@ -1,0 +1,23 @@
+/*  LEGENDA
+        -npm = Node Package Manager
+            Find packages 
+            Build packages 
+            Manage dependencies 
+            Extend a package's functionality without writing additional code 
+            Download and install packages
+        -npx = Node Package eXecute
+            Execute a package
+            Use a specific version of a package 
+            Run Github gists and repositories
+/////////////////////////////////////////////////////////////////////////////////////////////////
+    COMANDOS PARA APONTAR INCOERÊNCIAS NO CÓDIGO
+        -npm init (várioes enter e depois yes)
+        -npm init @eslint/config@0.4.6 (problems, esm, none, no, browser, JSON, yes, npm)
+        -npx eslint .
+    COMANDOS PARA FORMATAR O CÓDIGO
+        -npm install --save-dev --save-exact prettier@3.0.3
+    COMANDOS PARA MUDAR O PACOTE LOCAL E GLOBAL DO JSON-SERVER
+        -npm uninstall -g json-server(desintala a versão global)
+        -npx json-server -(checa a versão local)
+        -npm install json-server@0.16.0 -D(intala localmente dada versão do json-server)
+ */
